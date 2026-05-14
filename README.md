@@ -30,12 +30,13 @@ Colocar ambos archivos en la misma carpeta que el notebook antes de ejecutar.
 
 ## Estructura del Repositorio
 
-```text
-.
+```
 ├── experimento_shap_lime_soc.ipynb   # Código fuente del experimento
 ├── resultados/                        # 8 figuras generadas (.png)
 ├── fuentes/                           # PDFs de las 10 referencias bibliográficas
 └── README.md                          # Documentación del proyecto
+```
+
 ---
 
 ## Instalación y Ejecución
